@@ -1,0 +1,13 @@
+body{
+    margin:0em;
+    height: 150em;
+    background-color: rgb(61, 58, 58);
+}
+
+div{
+    background: url("https://cdn4.iconfinder.com/data/icons/bold-purple-free-samples/32/Like_Love_Heart_Appreciate_Enabled_Feelings-512.png") ;
+    width: 100px;
+    height:100px;
+    position: absolute;
+    background-size: cover;
+}
